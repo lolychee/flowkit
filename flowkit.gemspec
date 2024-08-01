@@ -8,7 +8,6 @@ Gem::Specification.new do |spec|
   spec.authors = ["lychee xing"]
   spec.email = ["lolychee@gmail.com"]
 
-  spec.summary = ""
   spec.summary = "A toolkit for building workflows in Ruby"
   spec.description = "A toolkit for building workflows in Ruby. Flowkit provides a set of tools and utilities to simplify the process of creating and managing workflows in Ruby applications. It offers a flexible and intuitive interface for defining and executing complex workflows, making it easier to handle dependencies, manage task execution, and handle errors."
   spec.homepage = "https://github.com/lolychee/flowkit"
